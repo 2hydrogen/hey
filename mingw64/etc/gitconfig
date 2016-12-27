@@ -1,0 +1,4 @@
+[credential]
+	helper = manager
+[difftool]
+	useBuiltin = true
